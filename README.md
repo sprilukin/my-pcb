@@ -4,7 +4,7 @@ This is collection of general purpose PCB's
  
 ## Table of contents
 
-  1. [One-channel opto-isolated relay module](one-channel-opto-isolated-relay-module)
+  1. [One-channel opto-isolated relay module](#one-channel-opto-isolated-relay-module)
   
 ## One-channel opto-isolated relay module
 
