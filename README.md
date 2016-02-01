@@ -8,6 +8,6 @@ This is collection of general purpose PCB's
   
 ## One-channel opto-isolated relay module
 
-[Relay](https://raw.githubusercontent.com/sprilukin/my-pcb/master/relay/onechannel-opto-isolated/relay_pcb.png)
+![Relay](https://raw.githubusercontent.com/sprilukin/my-pcb/master/relay/onechannel-opto-isolated/relay_pcb.png)
 
 [PCB](https://github.com/sprilukin/my-pcb/tree/master/relay/onechannel-opto-isolated)
